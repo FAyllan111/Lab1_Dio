@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Francisco.Esilva\\Documents\\Projeto_Estacionamento\\ProjetoEstacionamentoDIO\\ProjetoEstacionamentoDIO.csproj",
+      "projectUniqueName": "C:\\Users\\Francisco.Esilva\\Documents\\Projeto_Estacionamento\\ProjetoEstacionamentoDIO.csproj",
       "projectName": "ProjetoEstacionamentoDIO",
-      "projectPath": "C:\\Users\\Francisco.Esilva\\Documents\\Projeto_Estacionamento\\ProjetoEstacionamentoDIO\\ProjetoEstacionamentoDIO.csproj",
+      "projectPath": "C:\\Users\\Francisco.Esilva\\Documents\\Projeto_Estacionamento\\ProjetoEstacionamentoDIO.csproj",
       "packagesPath": "C:\\Users\\Francisco.Esilva\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Francisco.Esilva\\Documents\\Projeto_Estacionamento\\ProjetoEstacionamentoDIO\\obj\\",
+      "outputPath": "C:\\Users\\Francisco.Esilva\\Documents\\Projeto_Estacionamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Francisco.Esilva\\AppData\\Roaming\\NuGet\\NuGet.Config"

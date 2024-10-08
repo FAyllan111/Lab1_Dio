@@ -1,0 +1,15 @@
+C:\Users\Francisco.Esilva\Documents\Projeto_Estacionamento\obj\Debug\net8.0\ProjetoEstacionamentoDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Francisco.Esilva\Documents\Projeto_Estacionamento\obj\Debug\net8.0\ProjetoEstacionamentoDIO.AssemblyInfoInputs.cache
+C:\Users\Francisco.Esilva\Documents\Projeto_Estacionamento\obj\Debug\net8.0\ProjetoEstacionamentoDIO.AssemblyInfo.cs
+C:\Users\Francisco.Esilva\Documents\Projeto_Estacionamento\obj\Debug\net8.0\ProjetoEstacionamentoDIO.csproj.CoreCompileInputs.cache
+C:\Users\Francisco.Esilva\Documents\Projeto_Estacionamento\obj\Debug\net8.0\ProjetoEstacionamentoDIO.sourcelink.json
+C:\Users\Francisco.Esilva\Documents\Projeto_Estacionamento\bin\Debug\net8.0\ProjetoEstacionamentoDIO.exe
+C:\Users\Francisco.Esilva\Documents\Projeto_Estacionamento\bin\Debug\net8.0\ProjetoEstacionamentoDIO.deps.json
+C:\Users\Francisco.Esilva\Documents\Projeto_Estacionamento\bin\Debug\net8.0\ProjetoEstacionamentoDIO.runtimeconfig.json
+C:\Users\Francisco.Esilva\Documents\Projeto_Estacionamento\bin\Debug\net8.0\ProjetoEstacionamentoDIO.dll
+C:\Users\Francisco.Esilva\Documents\Projeto_Estacionamento\bin\Debug\net8.0\ProjetoEstacionamentoDIO.pdb
+C:\Users\Francisco.Esilva\Documents\Projeto_Estacionamento\obj\Debug\net8.0\ProjetoEstacionamentoDIO.dll
+C:\Users\Francisco.Esilva\Documents\Projeto_Estacionamento\obj\Debug\net8.0\refint\ProjetoEstacionamentoDIO.dll
+C:\Users\Francisco.Esilva\Documents\Projeto_Estacionamento\obj\Debug\net8.0\ProjetoEstacionamentoDIO.pdb
+C:\Users\Francisco.Esilva\Documents\Projeto_Estacionamento\obj\Debug\net8.0\ProjetoEstacionamentoDIO.genruntimeconfig.cache
+C:\Users\Francisco.Esilva\Documents\Projeto_Estacionamento\obj\Debug\net8.0\ref\ProjetoEstacionamentoDIO.dll

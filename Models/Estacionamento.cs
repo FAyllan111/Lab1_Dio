@@ -29,7 +29,7 @@ namespace ProjetoEstacionamentoDIO.Models
         {
             Console.WriteLine("Digite a placa do veiculo para ser removido:");
             string placa = Console.ReadLine();
-            veiculos.Remove(placa);
+            //veiculos.Remove(placa);
 
 
             if (veiculos.Any(X => X.ToUpper() == placa.ToUpper()))
@@ -39,6 +39,7 @@ namespace ProjetoEstacionamentoDIO.Models
                 decimal valorTotal = precoInicial + (precoHora * horas);
 
                 string placaRemover = "";
+                veiculos.Remove(placa);
 
                 Console.WriteLine($" O veículo {placa} foi removido e o preço total foi de: R${valorTotal}");
             }
